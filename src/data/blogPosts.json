@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Getting Started with Futuristic Design",
+    "excerpt": "Learn the fundamentals of next-gen UI/UX patterns",
+    "date": "2025-01-30",
+    "category": "UI/UX",
+    "readTime": "5",
+    "imageUrl": "https://picsum.photos/300/200?random=1",
+    "author": "Design Team",
+    "trending": true
+  },
+  {
+    "id": "2",
+    "title": "Web Development in 2025",
+    "excerpt": "Exploring the latest tools and frameworks",
+    "date": "2025-01-29",
+    "category": "Development",
+    "readTime": "7",
+    "imageUrl": "https://picsum.photos/300/200?random=2",
+    "author": "Dev Team",
+    "trending": false
+  },
+  {
+    "id": "3",
+    "title": "The Rise of Artificial Intelligence",
+    "excerpt": "How AI is transforming industries and our daily lives",
+    "date": "2025-01-28",
+    "category": "Technology",
+    "readTime": "10",
+    "imageUrl": "https://picsum.photos/300/200?random=3",
+    "author": "AI Research Team",
+    "trending": true
+  },
+  {
+    "id": "4",
+    "title": "Sustainable Architecture of the Future",
+    "excerpt": "Exploring eco-friendly and energy-efficient building designs",
+    "date": "2025-01-27",
+    "category": "Architecture",
+    "readTime": "8",
+    "imageUrl": "https://picsum.photos/300/200?random=4",
+    "author": "Architect Team",
+    "trending": false
+  }
+]

@@ -1,0 +1,45 @@
+.video-training-container {
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.page-title {
+  @apply text-4xl font-bold text-center mb-8;
+  background: linear-gradient(45deg, #00ff87, #60efff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.featured-carousel {
+  @apply mb-12;
+}
+
+.featured-video-card {
+  @apply bg-gray-800 rounded-lg p-4 flex flex-col items-start;
+}
+
+.video-thumbnail {
+  @apply w-full h-48 bg-gray-700 rounded mb-2;
+}
+
+.video-title {
+  @apply text-lg font-semibold text-white mb-1;
+}
+
+.video-metadata {
+  @apply flex items-center space-x-2 text-sm text-gray-400;
+}
+
+.category-badge {
+  @apply bg-blue-500 text-white px-2 py-1 rounded-full;
+}
+
+.video-grid {
+  @apply grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4;
+}
+
+.video-card {
+  @apply bg-gray-800 rounded-lg p-4 flex flex-col items-start;
+}
